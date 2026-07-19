@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sakthipriya Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sakthipriya</h1>
+    <h3>Artificial Intelligence & Data Science Student</h3>
+
+    <p>
+      Hello! I am Sakthipriya, a second-year student at Saranathan College of Engineering.
+      I am learning Python, C, Java, and web development.
+    </p>
+
+    <div class="card">
+      <h2>Skills</h2>
+      <p>Python • C • Java • HTML • CSS</p>
+    </div><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sakthipriya Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sakthipriya</h1>
+    <h3>Artificial Intelligence & Data Science Student</h3>
+
+    <p>
+      Hello! I am Sakthipriya, a second-year student at Saranathan College of Engineering.
+      I am learning Python, C, Java, and web development.
+    </p>
+
+    <div class="card">
+      <h2>Skills</h2>
+      <p>Python • C • Java • HTML • CSS</p>
+    </div>
+
+    <div class="card">
+      <h2>Education</h2>
+      <p>Saranathan College of Engineering<br>B.Tech AI & Data Science</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: yourmail@gmail.com</p>
+    </div>
+  </div>
+</body>
+</html>
+
+    <div class="card">
+      <h2>Education</h2>
+      <p>Saranathan College of Engineering<br>B.Tech AI & Data Science</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: yourmail@gmail.com</p>
+    </div>
+  </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sakthipriya Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sakthipriya</h1>
+    <h3>Artificial Intelligence & Data Science Student</h3>
+
+    <p>
+      Hello! I am Sakthipriya, a second-year student at Saranathan College of Engineering.
+      I am learning Python, C, Java, and web development.
+    </p>
+
+    <div class="card">
+      <h2>Skills</h2>
+      <p>Python • C • Java • HTML • CSS</p>
+    </div><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sakthipriya Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sakthipriya</h1>
+    <h3>Artificial Intelligence & Data Science Student</h3>
+
+    <p>
+      Hello! I am Sakthipriya, a second-year student at Saranathan College of Engineering.
+      I am learning Python, C, Java, and web development.
+    </p>
+
+    <div class="card">
+      <h2>Skills</h2>
+      <p>Python • C • Java • HTML • CSS</p>
+    </div>
+
+    <div class="card">
+      <h2>Education</h2>
+      <p>Saranathan College of Engineering<br>B.Tech AI & Data Science</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: yourmail@gmail.com</p>
+    </div>
+  </div>
+</body>
+</html>
+
+    <div class="card">
+      <h2>Education</h2>
+      <p>Saranathan College of Engineering<br>B.Tech AI & Data Science</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: yourmail@gmail.com</p>
+    </div>
+  </div>
+</body>
+</html>
